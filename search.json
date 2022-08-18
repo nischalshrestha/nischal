@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "posts/Unravel/index.html",
+    "href": "posts/Unravel/index.html",
+    "title": "Unravel: A fluent code explorer for R",
+    "section": "",
+    "text": "Motivation\nDuring my fifth to sixth year in PhD, I was left wondering what I wanted to build to round off my dissertation. I knew I wanted to do something exciting, and had been exploring several tools around comprehending data science code and output. For example, I’ve always been super appreciative of tools like Python Tutor that helps beginners in Python step through code forwards and backwards, watch how variables are populated, and even show how functions are called. What attracted me most about this was the magic of time travel debugging, a technique where you replay the events of the program to help you debug issues. Try clicking ‘Next’ and ‘Prev’ to move forwards and backwards on this simple example here:\n\n\nI liked this tool so much I wanted it for understanding and tracing transformations within a {dplyr} pipe chain like this one:\nstarwars %>%\n  group_by(species) %>%\n  summarise(\n    n = n(),\n    mass = mean(mass, na.rm = TRUE)\n  ) %>%\n  filter(\n    n > 1,\n    mass > 50\n  )\nThe code above uses a design pattern called the fluent API, a way of writing domain specific code where typically you build up operations by chaining them together (dot notation or pipes %>%. The code also has “structure”, each line of the code are steps, and the order of these steps can matter since we’re building up transformations to produce some meaningful output like summary stats of different starwar species and their average mass. The problem is that although we have nice legibility, it’s harder to trace what happens at each step and how data was transformed.\nI initially built a web app using the {shiny} just like Python Tutor thanks to a neat library called CodeMirror—version 5 not the new version 6 which I hear is great. Unfortunately this version is buried somehwere in my directories and I can’t reference it here. But, while this was cool and all, there were a lot of missing pieces, more information that is needed beyond just printing the output at each step.\nI had a meeting with my advisor Chris and colleage Titus, and we discussed the idea of opening up the exploration and focusing on key information one might want at each step. I did a ton of brainstorming and sketching… like a lot.\n\n\n\nEnter Unravel\nUnravel is a project that explores interactive exploration of data science code written in R. Unravel (paper + talk), enables data scientists to interactively inspect, understand and explore data wrangling code written using a fluent API like the tidyverse.\n(more to come!)"
+  },
+  {
+    "objectID": "posts/learnr/index.html",
+    "href": "posts/learnr/index.html",
+    "title": "Learning learnr",
+    "section": "",
+    "text": "During my RStudio internship in 2020, I explored a wonderful package in R called {learnr}, used to author interactive lessons. My goal was to try to add Python support, so we can start making Python lessons which led me to PR #390 that adds support for learnr exercises for any language supported by {knitr}. One of the features that I hadn’t planned on adding required implementing “chained setup chunks” so that each setup chunk associated with an exercise could further reference another setup chunk.\nIn the interest of being terse, I wrote a post on the RStudio Education blog that describes the main stages of writing to rendering and interacting with learnr documents. For the nerds out there, I also illustrated basic architecture and the tech stacks involved with learnr and a “simple” way to think about the package."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "I did my PhD in Computer Science at North Carolina State University from 2016-2022. My dissertation explored Just-In-Time learning tools for data science programming with Chris Parnin in the alt-code lab. You can read my dissertation to learn more!\n\nOutside of work, I enjoy hanging out with my friends and family, running, lifting, watching/discussing tv shows/movies, listening to or playing music, and coding for fun."
+  },
+  {
+    "objectID": "pubs/pubs.html",
+    "href": "pubs/pubs.html",
+    "title": "Publications",
+    "section": "",
+    "text": "2021\n\nUnravel: A Fluent Code Explorer for Data Wrangling. Nischal Shrestha, Titus Barik and Chris Parnin. To appear in UIST 2021: 34th ACM Symposium on User Interface Software and Technology\n[DOI | PDF | Talk]\n\nWe built a tool called Unravel to help data scientists understand and explore fluent code via structured edits using drag-and-drop and toggle switch interactions. Through a think-aloud user study with 14 data scientists, we found that Unravel facilitated diverse activities such as validating assumptions about the code or data, exploring alternatives, and understanding function behavior.\n\nRemote, but Connected: How #TidyTuesday Provides an Online Community of Practice for Data Scientists. Nischal Shrestha, Titus Barik and Chris Parnin. CSCW 2021: 24th ACM Conference on Computer-Supported Cooperative Work and Social Computing\n[DOI | PDF | Talk]\n\nThrough semi-structured interviews with 26 data scientists, we uncovered motivations behind their participation in #TidyTuesday, how the project benefited them, and how it cultivated an online CoP.\n\n\n\n2020\n\nHere We Go Again: Why Is It Difficult for Developers to Learn Another Programming Language? Nischal Shrestha, Colton Botta, Titus Barik and Chris Parnin. ICSE 2020: 42nd ACM/IEEE International Conference on Software Engineering. Won an ACM SIGSOFT Distinguished Paper Award.\n[DOI | PDF | Talk]\n\nWe found that previous programming language knowledge can interfere with learning another programming language.\n\n\n\n2019\n\nInstrument Designs for Validating Cross-Language Behavioral Differences Nischal Shrestha and Chris Parnin. 2019 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)\n[DOI | PDF]\n\nWe designed three instruments that can help identify and validate meaningful behavior differences between two languages to pinpoint potential misconceptions.\n\nExploring Tools and Strategies Used During Regular Expression Composition Tasks Gina R. Bai, Brian Clee, Nischal Shrestha, Carl Chapman, Cimone Wright, Kathryn T. Stolee. 2019 IEEE/ACM 27th International Conference on Program Comprehension (ICPC)\n[DOI | PDF]\n\nWe conducted an exploratory case study to reveal the tools and strategies developers use during regular expression composition.\n\n\n\n2018\n\nIt’s Like Python But: Towards Supporting Transfer of Programming Language Knowledge Nischal Shrestha, Titus Barik and Chris Parnin. 2018 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)\n[DOI | PDF]\n\nWe explored a prototype transfer tool to support learning new programming languages, given experience in one or more languages."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Nischal Shrestha",
+    "section": "",
+    "text": "Unravel\n\n\ntools\n\n\n\n\n\n\n\n\n\n\n\nAug 17, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nRStudio\n\n\ninternship\n\n\nlearnr\n\n\n\n\n\n\n\n\n\n\n\nJul 1, 2020\n\n\n\n\n\n\nNo matching items"
+  }
+]
