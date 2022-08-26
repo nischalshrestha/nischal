@@ -1,11 +1,10 @@
 ---
 title: "Unravel: A fluent code explorer for R"
+image: /posts/Unravel/UnravelGestalt.jpg
 date: "2022-08-17"
+draft: true
 categories: [Unravel, tools]
-image: UnravelGestalt.jpg
 ---
-
-<img src="UnravelGestalt.jpg" alt="A gestalt art of Unravel" width="100%"/>
 
 # Motivation
 
@@ -39,6 +38,8 @@ I had a meeting with my advisor Chris and colleage Titus, and we discussed the i
 
 # Enter Unravel
 
+![](/posts/Unravel/UnravelGestalt.jpg)
+
 [Unravel](https://github.com/nischalshrestha/Unravel) is a project that explores interactive exploration of data science code written in R. Unravel ([paper](http://nischalshrestha.me/docs/unravel.pdf) + [talk](https://www.youtube.com/watch?v=wJ77e39XVEs)), enables data scientists to interactively inspect, understand and explore data wrangling code written using a [fluent API](https://www.martinfowler.com/bliki/FluentInterface.html) like the [tidyverse](https://www.tidyverse.org).
 
-(more to come!)
+This is just a teaser blog post to what I'm realizing is about to be a series so keep an eye on the next part where I dive deeper into how I designed Unravel.

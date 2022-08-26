@@ -2,9 +2,8 @@
 title: "Learning learnr"
 date: "2020-07-01"
 categories: [RStudio, internship, learnr]
+image: https://github.com/rstudio/learnr/raw/main/man/figures/logo.png
 ---
-
-![](https://github.com/rstudio/learnr/raw/main/man/figures/logo.png)
 
 During my RStudio internship in 2020, I explored a wonderful package in R called [`{learnr}`](https://rstudio.github.io/learnr/index.html), used to author interactive lessons. My goal was to try to add Python support, so we can start making Python lessons which led me to [PR #390](https://github.com/rstudio/learnr/pull/390) that adds support for learnr exercises for any language supported by [`{knitr}`](https://yihui.org/knitr/). One of the features that I hadn't planned on adding required implementing "chained setup chunks" so that each setup chunk associated with an exercise could further reference another setup chunk. 
 
