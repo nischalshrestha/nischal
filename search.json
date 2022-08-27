@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "posts/Unravel/index.html",
-    "href": "posts/Unravel/index.html",
-    "title": "Unravel: A fluent code explorer for R",
-    "section": "",
-    "text": "Enter Unravel\n\nUnravel is a project that explores interactive exploration of data science code written in R. Unravel (paper + talk), enables data scientists to interactively inspect, understand and explore data wrangling code written using a fluent API like the tidyverse.\nThis is just a teaser blog post to what I’m realizing is about to be a series so keep an eye on the next part where I dive deeper into how I designed Unravel."
-  },
-  {
     "objectID": "posts/learnr/index.html",
     "href": "posts/learnr/index.html",
     "title": "Learning learnr",
@@ -32,6 +25,6 @@
     "href": "blog.html",
     "title": "Nischal Shrestha",
     "section": "",
-    "text": "Unravel\n\n\ntools\n\n\n\n\n\n\n\n\n\n\n\nAug 17, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nRStudio\n\n\ninternship\n\n\nlearnr\n\n\n\n\n\n\n\n\n\n\n\nJul 1, 2020\n\n\n\n\n\n\nNo matching items"
+    "text": "RStudio\n\n\ninternship\n\n\nlearnr\n\n\n\n\n\n\n\n\n\n\n\nJul 1, 2020\n\n\n\n\n\n\nNo matching items"
   }
 ]
