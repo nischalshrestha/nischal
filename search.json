@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "music/sonicpi.html",
+    "href": "music/sonicpi.html",
+    "title": "Nischal Shrestha",
+    "section": "",
+    "text": "Since 2020, I’ve been really into making code-based music using Sonic Pi a tool created by Sam Aaron, which is both the programming language and the editor.\nBelow are some that I’m proud of. Please like/comment/subscribe! 😆\n\n\nThis one is a recreation of a really nice modular synthesis progression by Colin Benders in one of his pandemic jams Lockdown Day 40 🤘\n\n\n\n\nElectro-disco-house type tune. 💃\n\n\n\n\nFun cover of the opening music of The Conjuring movie. 😱\n\n\n\n\nJust a chill piece, which felt like tending an ambient garden. 🌱 🚿"
+  },
+  {
     "objectID": "posts/learnr/index.html",
     "href": "posts/learnr/index.html",
     "title": "Learning learnr",
@@ -11,7 +18,7 @@
     "href": "index.html",
     "title": "Nischal Shrestha",
     "section": "",
-    "text": "I did my PhD in Computer Science at North Carolina State University from 2016-2022. My dissertation explored Just-In-Time learning tools for data science programming with Chris Parnin in the alt-code lab. You can read my dissertation to learn more!\n\nOutside of work, I enjoy hanging out with my friends and family, running, lifting, watching/discussing tv shows/movies, listening to or playing music, and coding for fun."
+    "text": "I did my PhD in Computer Science at North Carolina State University from 2016-2022. My dissertation explored Just-In-Time learning tools for data science programming with Chris Parnin in the alt-code lab. You can read my dissertation to learn more!\n\nOutside of work, I enjoy running, powerlifting, watching/discussing tv shows/movies, listening to or making music, and coding for fun."
   },
   {
     "objectID": "pubs/pubs.html",
