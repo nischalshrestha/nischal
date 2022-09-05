@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: ""
 image: imgs/propica.jpg
 about:
   template: trestles
@@ -7,12 +7,12 @@ about:
     - icon: twitter
       # text: Twitter
       href: https://twitter.com/nischaldesign
-    - icon: linkedin
-      # text: LinkedIn
-      href: www.linkedin.com/in/nischaldesign
     - icon: github
       # text: Github
       href: https://github.com/nischalshrestha
+    - icon: linkedin
+      # text: LinkedIn
+      href: www.linkedin.com/in/nischaldesign
 ---
 
 Hi, I'm Nischal! I love using Python, R, and JavaScript to build fun and useful tools for data scientists. Currently, I'm a Data Science Educator at RStudio where I'm building autograding tools for [Academy](https://www.rstudio.com/academy/). I have worked on some R packages around autograding like [learnr](https://rstudio.github.io/learnr/index.html), or [ggcheck](https://github.com/rstudio/ggcheck/) to facilitate grading for interactive tutorials.
