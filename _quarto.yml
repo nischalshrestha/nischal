@@ -12,6 +12,8 @@ website:
         text: Blog
       - href: pubs/pubs.qmd
         text: Publications
+      - href: music/sonicpi.qmd
+        text: Music
   # navbar:
     right:
       - icon: github
