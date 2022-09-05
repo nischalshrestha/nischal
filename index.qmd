@@ -1,5 +1,4 @@
 ---
-title: ""
 image: imgs/propica.jpg
 about:
   template: trestles
@@ -23,6 +22,6 @@ I did my PhD in Computer Science at North Carolina State University from 2016-20
 
 ---
 
-Outside of work, I enjoy running, powerlifting, watching/discussing tv shows/movies, listening to or [making music](https://www.youtube.com/channel/UCuGoH54n9UCn8ez7NjjhyMA/about), and coding for fun.
+Outside of work, I enjoy running, powerlifting, watching/discussing tv shows/movies, listening to or [making music](music/music.qmd), and coding for fun.
 
 ---

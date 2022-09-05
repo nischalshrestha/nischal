@@ -1,35 +1,35 @@
 ---
-title: ""
+title: "Music"
 toc: true
 from: markdown+emoji
 ---
 
-# Sonic Pi
+## Sonic Pi
 
 Since 2020, I've been really into making code-based music using [Sonic Pi](https://sonic-pi.net) a tool created by Sam Aaron, which is both the programming language and the editor. 
 
 Below are some that I'm proud of. Please like/comment/subscribe! :laughing:
 
-## Arps 1
+### Arps 1
 
 This one is a recreation of a really nice modular synthesis progression by Colin Benders in one of his pandemic jams [Lockdown Day 40](https://youtu.be/iF8Lgj-jzAo?t=9132) :metal:
 
 {{< video src=https://youtu.be/CTS8Ab_jWBo >}}
 
-## YA
+### YA
 
 Electro-disco-house type tune. :dancer:
 
 {{< video src=https://youtu.be/dK1Ibi0SFY4 >}}
 
 
-## The Conjuring
+### The Conjuring
 
 Fun cover of the opening music of The Conjuring movie. :scream:
 
 {{< video src=https://youtu.be/qAob7e4cnuU >}}
 
-## Ambient 1
+### Ambient 1
 
 Just a chill piece, which felt like tending an ambient garden. :seedling: :shower:
 

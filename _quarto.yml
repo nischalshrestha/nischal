@@ -12,7 +12,7 @@ website:
         text: Blog
       - href: pubs/pubs.qmd
         text: Publications
-      - href: music/sonicpi.qmd
+      - href: music/music.qmd
         text: Music
   # navbar:
     right:
