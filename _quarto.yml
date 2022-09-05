@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Nischal Shrestha"
+  google-analytics: "UA-161139214-1"
   navbar:
     background: primary
     contents: content
