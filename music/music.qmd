@@ -16,18 +16,25 @@ This one is a recreation of a really nice modular synthesis progression by Colin
 
 {{< video src=https://youtu.be/CTS8Ab_jWBo >}}
 
+### The Conjuring
+
+Fun cover of the opening music of The Conjuring movie. :scream:
+
+{{< video src=https://youtu.be/qAob7e4cnuU >}}
+
 ### YA
 
 Electro-disco-house type tune. :dancer:
 
 {{< video src=https://youtu.be/dK1Ibi0SFY4 >}}
 
+### Infinite Space
 
-### The Conjuring
+This one is a short synth-y, ambient, generative one. :space_invader: :milky_way:
 
-Fun cover of the opening music of The Conjuring movie. :scream:
+It has a 8bit video game vibe, but what I like about these types of songs is that I could let it go on forever, and the randomization typically keeps things interesting. There's definitely some [Disasterpiece](https://disasterpeace.com) influence (especially his tracks on the [It Follows](https://www.imdb.com/title/tt3235888/) movie).
 
-{{< video src=https://youtu.be/qAob7e4cnuU >}}
+{{< video src=https://youtu.be/OQwpkHeTbgQ >}}
 
 ### Ambient 1
 
