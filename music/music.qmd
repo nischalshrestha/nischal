@@ -22,6 +22,16 @@ Fun cover of the opening music of The Conjuring movie. :scream:
 
 {{< video src=https://youtu.be/qAob7e4cnuU >}}
 
+### THX Deep Note
+
+I have always loved the THX logo sound "Deep Note" created by Dr. James A. Moorer. They recently revealed the secret behind the sound:
+
+{{< tweet THX 1000077588415447040 >}}
+
+I had to recreate it in Sonic Pi! So here we go:
+
+{{< video src=https://youtu.be/O-35MnDxzRo >}}
+
 ### YA
 
 Electro-disco-house type tune. :dancer:
