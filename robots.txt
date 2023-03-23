@@ -1,1 +1,1 @@
-Sitemap: nischalshrestha.me/sitemap.xml
+Sitemap: https://nischalshrestha.me/sitemap.xml
