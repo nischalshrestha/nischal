@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://nischalshrestha.me/music/music.html</loc>
-    <lastmod>2023-03-23T22:35:53.931Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nischalshrestha.me/posts/learnr/index.html</loc>
-    <lastmod>2023-03-23T22:35:54.830Z</lastmod>
+    <loc>https://nischalshrestha.me/blog.html</loc>
+    <lastmod>2023-07-04T05:52:10.264Z</lastmod>
   </url>
   <url>
     <loc>https://nischalshrestha.me/index.html</loc>
-    <lastmod>2023-03-23T22:35:55.192Z</lastmod>
+    <lastmod>2023-07-04T05:52:09.622Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nischalshrestha.me/music/music.html</loc>
+    <lastmod>2023-07-04T05:52:08.570Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nischalshrestha.me/posts/learnr/index.html</loc>
+    <lastmod>2023-07-04T05:52:09.346Z</lastmod>
   </url>
   <url>
     <loc>https://nischalshrestha.me/pubs/pubs.html</loc>
-    <lastmod>2023-03-23T22:35:55.591Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nischalshrestha.me/blog.html</loc>
-    <lastmod>2023-03-23T22:35:55.923Z</lastmod>
+    <lastmod>2023-07-04T05:52:09.957Z</lastmod>
   </url>
 </urlset>
