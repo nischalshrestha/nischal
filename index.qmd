@@ -25,7 +25,7 @@ I have also worked on OSS like [learnr](https://rstudio.github.io/learnr/index.h
 
 ---
 
-I did my PhD in Computer Science at North Carolina State University from 2016-2022 where I explored Just-In-Time learning tools for data science programming with [Chris Parnin](http://chrisparnin.me) in the alt-code lab. You can read my [dissertation](https://repository.lib.ncsu.edu/handle/1840.20/39802?show=full) to learn more! 
+I did my PhD in Computer Science at North Carolina State University from 2016-2022 where I explored just-in-time learning tools for data science programming with [Chris Parnin](http://chrisparnin.me) in the alt-code lab. You can read my [dissertation](https://repository.lib.ncsu.edu/handle/1840.20/39802?show=full) to learn more! 
 
 ---
 
