@@ -8,7 +8,7 @@ about:
     - icon: github
       href: https://github.com/nischalshrestha
     - icon: linkedin
-      href: www.linkedin.com/in/nischaldesign
+      href: https://www.linkedin.com/in/nischaldesign/
     - icon: envelope-fill
       href: mailto:nsrocker92@gmail.com
 ---
